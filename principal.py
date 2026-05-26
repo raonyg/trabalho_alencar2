@@ -9,3 +9,4 @@ while True:
 
     opcao=input(
     '{:_^40} \n''1-Cadastrar candidato \t''2-Lista de candidatos \n''3-Votar \t''4-Resultado \n''0-Fechar o Programa \n''{:=^40}\n''digite sua opção: '.format('comandos','='))
+# verificando se irá pedir um comentario 
