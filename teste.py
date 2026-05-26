@@ -1,4 +1,4 @@
-'''DOCSTRING: Programa de votação para eleição de candidatos. O programa permite cadastrar candidatos, listar os candidatos, votar e mostrar o resultado da votação. O programa é encerrado quando o usuário digita 0.'''
+
 
 f=[]
 
