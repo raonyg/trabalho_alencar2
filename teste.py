@@ -8,7 +8,7 @@ while True:
     print('\n{:_^40}'.format('VOTAÇÃO'))
 
     opcao=input(
-    '---comandos--- \n''1-Cadastrar candidato \n''2-Lista de candidatos \n''3-Votar \n''4-Resultado \n''0-Fechar o Programa \n''=============\n''digite sua opção: '.title())
+    '{:_^40} \n''1-Cadastrar candidato \t''2-Lista de candidatos \n''3-Votar \t''4-Resultado \n''0-Fechar o Programa \n''=============\n''digite sua opção: '.format('comandos').title())
 
 
 #caso digite 0 o programa será encerrado
